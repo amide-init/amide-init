@@ -1,32 +1,58 @@
-# Amin Uddin
+# 👋 Hey there, I'm Amin Uddin
+
+### 🚀 Founder & CEO @ [BadgeMonster](https://getbadgemonster.com)
+AI-powered learning & skill-assessment platform that helps students master coding, analytics, and AI — from setting goals to receiving personalized feedback.
+
+### 💼 Software Engineer @ Seawoods Ventures
+Building large-scale systems with **.NET Core, React, SQLKata, and GCP**, focused on performance optimization, personalization, and AI integrations.
+
+---
+
+### 🧠 About Me
+I’m a **Full Stack Developer**, **AI/ML Practitioner**, and **Educator** who loves building products that blend **learning, intelligence, and automation**.  
+I lead projects that use **Gemini, TensorFlow.js, and Node.js** to create scalable, AI-enhanced applications — while mentoring students in **machine learning, data analytics, and DevOps**.
+
+---
+
+### ⚙️ Tech Stack & Skills
+
+**Languages:** Python, JavaScript, TypeScript, C#, SQL  
+**Frameworks & Tools:** React, Next.js, Node.js, Express, .NET Core, Flask  
+**AI/ML:** TensorFlow.js, OpenCV, Scikit-learn, R, PyTorch (basic)  
+**Cloud & DevOps:** Firebase, Google Cloud, Azure, Docker, Kubernetes  
+**Other:** System Design, Data Analytics (R & Excel), Financial Analytics  
+
+---
+
+### 💡 Highlighted Projects
+
+1. 🧠 **[BadgeMonster](https://getbadgemonster.com)** — AI-powered learning and skill-assessment platform  
+2. 💬 **one-more-validation (NPM)** — ML-based package to detect irrelevant inputs in marketplace search  
+3. 📈 **Trendifa** — AI tool that generates LinkedIn posts using Gemini and Perplexity APIs  
+4. 🧮 **Credit Risk Modeling** — Financial analytics project for predicting loan defaults  
+5. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers  
+6. 🩺 **AI Mask Detection System** — Real-time computer vision project for COVID compliance  
+
+---
+
+### 🎯 Current Focus
+
+- Expanding **BadgeMonster** with personalized AI mentors and intelligent learning paths  
+- Teaching **Machine Learning**, **Financial Analytics**, and **DevOps** to aspiring professionals  
 
 
-<h1> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Software Engineer @ Skillgigs </h2>
-<h2>EX- Software Engineer @ Seawoods Ventures Inc</h2>
-<h2> I am an AI,  ML practitioner! , Full Stack Developer and EX-CTO of EXTRA! Insights</h2>
+---
 
-### 📜Skills:
- Machine Learning, Artificial Intelligence, Data Analytics, Computer Vision,  Data Structures, Python,  JavaScript,  & Public Speaking,
- 
-### 👨‍💻Frameworks:
-Tensorflow, OpenCV, NodeJS, Express, Flask, Bootstrap , Mongo DB,  Angular, Flutter, ReactJs, Google Cloud and AWS
+### 🌐 Let’s Connect
 
-### 🤖Projects:
-1. AI based COVID 19 Mask Detection Compliance.      
-2. Shopping  App
-3. sentiment analysis
-4. Advance News App conatains( Debate, Infinite Nested comment System)
-5. Create Rest Api for startup EXTRA! Insights
-6. Search Engine for News and Publishers
+📩 [LinkedIn](https://www.linkedin.com/in/aaminu/)  
+🧰 [GitHub](https://github.com/amide-init)  
+🌎 [Website](https://getbadgemonster.com)  
+📧 devaminza@gmail.com  
 
+---
 
- <img src="https://github-readme-stats.vercel.app/api?username=amide-inc&show_icons=true&count_private=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=amide-init&show_icons=true&count_private=true&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amide-init&theme=dark" />
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amide-inc&theme=dark) 
-
-
-![Profile views](https://gpvc.arturio.dev/amide-inc) 
- 
-
-
+![Profile views](https://gpvc.arturio.dev/amide-init)
