@@ -29,11 +29,11 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 ### 💡 Highlighted Projects
 
 1. 🧠 **[BadgeMonster](https://getbadgemonster.com)** — AI-powered learning and skill-assessment platform  
-2. 💬 **one-more-validation (NPM)** — ML-based package to detect irrelevant inputs in marketplace search  
+2. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search  
 3. 📈 **Trendifa** — AI tool that generates LinkedIn posts using Gemini and Perplexity APIs  
 4. 🧮 **Credit Risk Modeling** — Financial analytics project for predicting loan defaults  
 5. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers  
-6. 🩺 **AI Mask Detection System** — Real-time computer vision project for COVID compliance  
+6. 🩺 **[AI Mask Detection System](https://github.com/amide-init/mask-detection)** — Real-time computer vision project for COVID compliance  
 
 ---
 
