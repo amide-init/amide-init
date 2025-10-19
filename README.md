@@ -11,7 +11,8 @@ I focus on **implementing new business logic, optimizing search flows, managing 
 
 ### 🧠 About Me
 I’m a **Full Stack Developer**, **AI/ML Practitioner**, and **Educator** who loves building products that blend **learning, intelligence, and automation**.  
-I lead projects that use **Gemini, TensorFlow.js, and Node.js** to create scalable, AI-enhanced applications — while mentoring students in **machine learning, data analytics, and DevOps**.
+I lead projects that use **LLM models like Gemini, OpenAI, and Claude**, along with **TensorFlow.js** and **Node.js**, to build scalable, AI-enhanced web applications.  
+As a **Full Stack Developer**, I work across the entire stack — from backend APIs to frontend UX — while mentoring students in **machine learning, data analytics, and DevOps**.
 
 ---
 
