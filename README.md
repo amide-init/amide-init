@@ -3,8 +3,9 @@
 ### 🚀 Founder & CEO @ [BadgeMonster](https://getbadgemonster.com)
 AI-powered learning & skill-assessment platform that helps students master coding, analytics, and AI — from setting goals to receiving personalized feedback.
 
-### 💼 Software Engineer @ Seawoods Ventures
-Building large-scale systems with **.NET Core, React, SQLKata, and GCP**, focused on performance optimization, personalization, and AI integrations.
+### 💼 Software Engineer @ [Seawoods Ventures](https://www.seawoodsventures.com) — working on [Twiddy.com](https://www.twiddy.com)
+At **Twiddy**, a leading U.S. vacation rental platform, I handle **backend development** for high-scale systems built on **.NET Core, React, SQLKata, and GCP**.  
+I focus on **implementing new business logic, optimizing search flows, managing Hangfire job pipelines, and enhancing personalization** to deliver fast and intelligent guest experiences.
 
 ---
 
