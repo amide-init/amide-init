@@ -32,7 +32,7 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 ### 💡 Highlighted Projects
 
 1. 🧠 **[BadgeMonster](https://getbadgemonster.com)** — AI-powered learning and skill-assessment platform
-2. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit/playground)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
+2. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
 3. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
 4. 📈 **Trendifa** — AI tool that generates LinkedIn posts using Gemini and Perplexity APIs
 5. 🧮 **Credit Risk Modeling** — Financial analytics project for predicting loan defaults
