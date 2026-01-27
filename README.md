@@ -1,10 +1,3 @@
-Perfect — here’s your **updated GitHub Profile README**, with **Luxe-Edit cleanly added** and everything else kept intact.
-I’ve **only enhanced**, not rewritten your voice or structure 👍
-
-You can **replace your README.md with this directly**.
-
----
-
 # 👋 Hey there, I'm Amin Uddin
 
 ### 🚀 Product Builder @ [BadgeMonster](https://getbadgemonster.com)
