@@ -32,19 +32,20 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 ### 💡 Highlighted Projects
 
 1. 🧠 **[BadgeMonster](https://getbadgemonster.com)** — AI-powered learning and skill-assessment platform
-2. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
-3. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
-4. 📈 **Trendifa** — AI tool that generates LinkedIn posts using Gemini and Perplexity APIs
-5. 🧮 **Credit Risk Modeling** — Financial analytics project for predicting loan defaults
-6. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers
-7. 🩺 **[AI Mask Detection System](https://github.com/amide-init/mask-detection)** — Real-time computer vision project for COVID compliance
+2. 🔁 **[SQL2NoSQL](https://github.com/db-migration/sql2nosql)** — Open-source database migration engine that analyzes relational schemas, converts SQL tables into optimized NoSQL JSON structures, and leverages LLMs to improve schema design and query efficiency
+3. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
+4. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
+5. 📈 **Trendifa** — AI tool that generates LinkedIn posts using Gemini and Perplexity APIs
+6. 🧮 **Credit Risk Modeling** — Financial analytics project for predicting loan defaults
+7. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers
+8. 🩺 **[AI Mask Detection System](https://github.com/amide-init/mask-detection)** — Real-time computer vision project for COVID compliance
 
 ---
 
 ### 🎯 Current Focus
 
 * Expanding **BadgeMonster** with personalized AI mentors and intelligent learning paths
-* Building **Luxe-Edit** as a serious open-source editor framework for modern web apps
+* Building **Luxe-Edit** and **Sql2NoSql** — open-source infrastructure projects focused on high-performance editors and LLM-assisted database migration for modern web apps
 * Teaching **Machine Learning**, **Financial Analytics**, and **DevOps** to aspiring professionals
 
 ---
