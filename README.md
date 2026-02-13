@@ -1,67 +1,168 @@
-# 👋 Hey there, I'm Amin Uddin
+# 👋 Amin Uddin
 
-### 🚀 Product Builder @ [BadgeMonster](https://getbadgemonster.com)
+### Senior Software Engineer | AI Systems Engineer | DevOps-Aware Backend Architect
 
-AI-powered learning & skill-assessment platform that helps students master coding, analytics, and AI — from setting goals to receiving personalized feedback.
-
-### 💼 Software Engineer @ [Seawoods Ventures](https://www.seawoodsventures.com) — working on [Twiddy.com](https://www.twiddy.com)
-
-At **Twiddy**, a leading U.S. vacation rental platform, I handle **backend development** for high-scale systems built on **.NET Core, React, SQLKata, and GCP**.
-I focus on **implementing new business logic, optimizing search flows, managing Hangfire job pipelines, and enhancing personalization** to deliver fast and intelligent guest experiences.
+Building scalable backend systems, intelligent search pipelines, and production-grade AI applications.
 
 ---
 
-### 🧠 About Me
+## 💼 Senior Software Engineer — [Seawoods Ventures](https://www.seawoodsventures.com)
 
-I’m a **Full Stack Developer**, **AI/ML Practitioner**, and **Educator** who loves building products that blend **learning, intelligence, and automation**.
-I lead projects that use **LLM models like Gemini, OpenAI, and Claude**, along with **TensorFlow.js** and **Node.js**, to build scalable, AI-enhanced web applications.
-As a **Full Stack Developer**, I work across the entire stack — from backend APIs to frontend UX — while mentoring students in **machine learning, data analytics, and DevOps**.
+Working on **[Twiddy.com](https://www.twiddy.com)** — a high-scale U.S. vacation rental platform.
 
----
+At Twiddy, I:
 
-### ⚙️ Tech Stack & Skills
+* Architect backend services using **.NET Core, SQLKata, PostgreSQL, and GCP**
+* Design and optimize **search & personalization pipelines**
+* Manage distributed background processing using **Hangfire**
+* Implement complex pricing, availability, and reservation logic
+* Improve database performance and caching strategies
+* Enhance reliability, observability, and production stability
 
-**Languages:** Python, JavaScript, TypeScript, C#, SQL
-**Frameworks & Tools:** React, Next.js, Node.js, Express, .NET Core, Flask
-**AI/ML:** TensorFlow.js, OpenCV, Scikit-learn, R, PyTorch (basic)
-**Cloud & DevOps:** Firebase, Google Cloud, Azure, Docker, Kubernetes
-**Other:** System Design, Data Analytics (R & Excel), Financial Analytics
-
----
-
-### 💡 Highlighted Projects
-
-1. 🧠 **[BadgeMonster](https://getbadgemonster.com)** — AI-powered learning and skill-assessment platform
-2. 🔁 **[SQL2NoSQL](https://github.com/db-migration/sql2nosql)** — Open-source database migration engine that analyzes relational schemas, converts SQL tables into optimized NoSQL JSON structures, and leverages LLMs to improve schema design and query efficiency
-3. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
-4. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
-5. 📈 **Trendifa** — AI tool that generates LinkedIn posts using Gemini and Perplexity APIs
-6. 🧮 **Credit Risk Modeling** — Financial analytics project for predicting loan defaults
-7. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers
-8. 🩺 **[AI Mask Detection System](https://github.com/amide-init/mask-detection)** — Real-time computer vision project for COVID compliance
+I focus on building systems that are scalable, deployable, and maintainable long-term.
 
 ---
 
-### 🎯 Current Focus
-
-* Expanding **BadgeMonster** with personalized AI mentors and intelligent learning paths
-* Building **Luxe-Edit** and **Sql2NoSql** — open-source infrastructure projects focused on high-performance editors and LLM-assisted database migration for modern web apps
-* Teaching **Machine Learning**, **Financial Analytics**, and **DevOps** to aspiring professionals
+# 🚀 Highlighted Engineering Projects
 
 ---
 
-### 🌐 Let’s Connect
+## 🧠 [BadgeMonster](https://getbadgemonster.com)
 
-📩 [LinkedIn](https://www.linkedin.com/in/aaminu/)
-🧰 [GitHub](https://github.com/amide-init)
-🌎 [Website](https://getbadgemonster.com)
-📧 [devaminza@gmail.com](mailto:devaminza@gmail.com)
+**AI-Powered Learning Intelligence Platform**
+
+A full-stack AI-driven system delivering adaptive feedback and intelligent skill evaluation.
+
+**Engineering Highlights:**
+
+* Modular AI pipeline integrating Gemini & OpenAI APIs
+* Structured prompt evaluation layers for consistent output
+* Adaptive performance analytics engine
+* Hybrid deterministic + AI backend design
+* Built using React + Node.js architecture
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=amide-init&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amide-init&theme=dark" />
+## 🔁 [SQL2NoSQL](https://github.com/db-migration/sql2nosql)
+
+**LLM-Assisted Schema Transformation Engine**
+
+An intelligent migration engine that converts relational schemas into optimized NoSQL JSON structures.
+
+**Engineering Highlights:**
+
+* Schema parsing and relational structure analysis
+* LLM-assisted schema reasoning
+* Query adaptation strategies for NoSQL systems
+* Extensible and database-agnostic architecture
+
+---
+
+## ✍️ [Luxe-Edit](https://luxe-tools.github.io/luxe-edit)
+
+**Composable Rich Text Editor Framework (Built on Lexical)**
+
+A high-performance editor framework designed for SaaS and AI-native applications.
+
+**Engineering Highlights:**
+
+* Plugin-based modular architecture
+* Clean abstraction layers for extensibility
+* Optimized rendering performance
+* AI augmentation-ready design
+
+---
+
+## 💬 [one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)
+
+**ML-Based Search Noise Reduction Engine**
+
+A browser-native ML package to detect irrelevant marketplace search inputs.
+
+**Engineering Highlights:**
+
+* TensorFlow.js classification model
+* Fully client-side inference
+* Lightweight and integration-friendly design
+* Optimized for performance and minimal overhead
+
+---
+
+## 🔬 [AI Mask Detection System](https://github.com/amide-init/mask-detection)
+
+**Real-Time Computer Vision System**
+
+A real-time mask detection project built using computer vision techniques.
+
+* Image classification pipeline
+* Real-time inference workflow
+* Applied ML in production-like environment
+
+---
+
+# ⚙️ Core Tech Stack
+
+### Languages
+
+C#, TypeScript, JavaScript, Python, SQL
+
+### Backend
+
+.NET Core
+Node.js
+Express
+Flask
+SQLKata
+PostgreSQL
+Redis
+Hangfire
+
+### DevOps & Infrastructure
+
+Docker
+Kubernetes
+GCP/AWS/Azure
+Firebase
+CI/CD automation pipelines
+Cloud logging & monitoring
+
+### Frontend
+
+React
+Next.js
+Vite
+
+### AI / ML
+
+LLM integrations (Gemini, OpenAI, Claude)
+TensorFlow.js
+Scikit-learn
+PyTorch (working knowledge)
+
+---
+
+# 🎯 Current Focus
+
+* Scaling AI-assisted production systems
+* Improving CI/CD automation & deployment reliability
+* Building developer infrastructure tools
+* Expanding open-source contributions
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amide-init&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amide-init&theme=dark" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=amide-init\&label=Profile%20views\&color=0e75b6\&style=flat)
+---
 
+# 🌐 Connect
 
+🔗 LinkedIn: [https://www.linkedin.com/in/aaminu/](https://www.linkedin.com/in/aaminu/)
+💻 GitHub: [https://github.com/amide-init](https://github.com/amide-init)
+🌍 Website: [https://getbadgemonster.com](https://getbadgemonster.com)
+📧 Email: [devaminza@gmail.com](mailto:devaminza@gmail.com)
