@@ -43,7 +43,7 @@ A full-stack AI-driven system delivering adaptive feedback and intelligent skill
 
 ---
 
-## 🔁 [SQL2NoSQL](https://github.com/db-migration/sql2nosql)
+## 🔁 [SQL2NoSQL](https://usedamru.github.io/sql2nosql/)
 
 **LLM-Assisted Schema Transformation Engine**
 
