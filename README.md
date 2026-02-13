@@ -131,13 +131,16 @@ Cloud logging & monitoring
 React
 Next.js
 Vite
+Angular
+Flutter
 
 ### AI / ML
 
 LLM integrations (Gemini, OpenAI, Claude)
 TensorFlow.js
 Scikit-learn
-PyTorch (working knowledge)
+PyTorch (working knowledge) 
+AI tools (cursor, claude code)
 
 ---
 
