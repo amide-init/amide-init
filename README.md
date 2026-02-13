@@ -1,4 +1,4 @@
-# 👋 Amin Uddin
+# 👋  Hey there, I'm Amin Uddin
 
 ### Senior Software Engineer | AI Systems Engineer | DevOps-Aware Backend Architect
 
