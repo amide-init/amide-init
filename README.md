@@ -32,7 +32,7 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 ### 💡 Highlighted Projects
 
 1. 🧠 **[BadgeMonster](https://getbadgemonster.com)** — AI-powered learning and skill-assessment platform.
-2. 🌐 ** [Gitfolio](https://github.com/amide-init/gitfolio)** — GitHub API–powered portfolio generator with automated daily rebuilds via GitHub Actions (CI/CD).
+2. 🌐 **[Gitfolio](https://github.com/amide-init/gitfolio)** — GitHub API–powered portfolio generator with automated daily rebuilds via GitHub Actions (CI/CD).
 3. 🔁 **[SQL2NoSQL](https://github.com/db-migration/sql2nosql)** — Open-source database migration engine that analyzes relational schemas, converts SQL tables into optimized NoSQL JSON structures, and leverages LLMs to improve schema design and query efficiency
 4. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
 5. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
