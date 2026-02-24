@@ -45,8 +45,7 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 ### 🎯 Current Focus
 
 * Expanding **BadgeMonster** with personalized AI mentors and intelligent learning paths
-* Building **Luxe-Edit** as a serious open-source editor framework for modern web apps
-* Building **Luxe-Edit** and **Sql2NoSql** — open-source infrastructure projects focused on high-performance editors and LLM-assisted database migration for modern web apps
+* Building **Luxe-Edit** and **Sql2NoSql** as open-source infrastructure projects focused on high-performance editors and LLM-assisted database migration
 * Teaching **Machine Learning**, **Financial Analytics**, and **DevOps** to aspiring professionals
 
 ---
