@@ -19,7 +19,19 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 
 ---
 
-### ⚙️ Tech Stack & Skills
+### ⚙️ Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span style="background-color: #007acc; color: white; padding: 5px 10px; border-radius: 12px;">Python</span>
+    <span style="background-color: #f0db4f; color: black; padding: 5px 10px; border-radius: 12px;">JavaScript</span>
+    <span style="background-color: #3178c6; color: white; padding: 5px 10px; border-radius: 12px;">TypeScript</span>
+    <span style="background-color: #5c2d91; color: white; padding: 5px 10px; border-radius: 12px;">C#</span>
+    <span style="background-color: #f29111; color: black; padding: 5px 10px; border-radius: 12px;">SQL</span>
+</div>
+
+---
+
+### Tech Stack & Skills
 
 **Languages:** Python, JavaScript, TypeScript, C#, SQL
 **Frameworks & Tools:** React, Next.js, Node.js, Express, .NET Core, Flask
@@ -38,7 +50,6 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 5. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
 6. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers
 7. 🩺 **[AI Mask Detection System](https://github.com/amide-init/mask-detection)** — Real-time computer vision project for COVID compliance
-
 
 ---
 
@@ -63,4 +74,3 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amide-init&theme=dark" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=amide-init\&label=Profile%20views\&color=0e75b6\&style=flat)
-
