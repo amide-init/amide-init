@@ -1,5 +1,23 @@
 # 👋 Hey there, I'm Amin Uddin
 
+---
+
+### ⚙️ Skills & Tech Stack
+
+#### Skills
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### Tech Stack
+
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- **Frameworks & Tools:** React, Next.js, Node.js, Express, .NET Core, Flask
+- **AI/ML:** TensorFlow.js, OpenCV, Scikit-learn, R, PyTorch (basic)
+- **Cloud & DevOps:** Firebase, Google Cloud, Azure, Docker, Kubernetes
+- **Other:** System Design, Data Analytics (R & Excel), Financial Analytics
+
+---
+
 ### 🚀 Product Builder @ [BadgeMonster](https://getbadgemonster.com)
 
 AI-powered learning & skill-assessment platform that helps students master coding, analytics, and AI — from setting goals to receiving personalized feedback.
@@ -16,28 +34,6 @@ I focus on **implementing new business logic, optimizing search flows, managing 
 I’m a **Full Stack Developer**, **AI/ML Practitioner**, and **Educator** who loves building products that blend **learning, intelligence, and automation**.
 I lead projects that use **LLM models like Gemini, OpenAI, and Claude**, along with **TensorFlow.js** and **Node.js**, to build scalable, AI-enhanced web applications.
 As a **Full Stack Developer**, I work across the entire stack — from backend APIs to frontend UX — while mentoring students in **machine learning, data analytics, and DevOps**.
-
----
-
-### ⚙️ Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <span style="background-color: #007acc; color: white; padding: 5px 10px; border-radius: 12px;">Python</span>
-    <span style="background-color: #f0db4f; color: black; padding: 5px 10px; border-radius: 12px;">JavaScript</span>
-    <span style="background-color: #3178c6; color: white; padding: 5px 10px; border-radius: 12px;">TypeScript</span>
-    <span style="background-color: #5c2d91; color: white; padding: 5px 10px; border-radius: 12px;">C#</span>
-    <span style="background-color: #f29111; color: black; padding: 5px 10px; border-radius: 12px;">SQL</span>
-</div>
-
----
-
-### Tech Stack & Skills
-
-**Languages:** Python, JavaScript, TypeScript, C#, SQL
-**Frameworks & Tools:** React, Next.js, Node.js, Express, .NET Core, Flask
-**AI/ML:** TensorFlow.js, OpenCV, Scikit-learn, R, PyTorch (basic)
-**Cloud & DevOps:** Firebase, Google Cloud, Azure, Docker, Kubernetes
-**Other:** System Design, Data Analytics (R & Excel), Financial Analytics
 
 ---
 
@@ -73,4 +69,4 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 <img src="https://github-readme-stats.vercel.app/api?username=amide-init&show_icons=true&count_private=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amide-init&theme=dark" />
 
-![Profile views](https://komarev.com/ghpvc/?username=amide-init\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=amide-init&label=Profile%20views&color=0e75b6&style=flat)
