@@ -93,7 +93,7 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 📧 [devaminza@gmail.com](mailto:devaminza@gmail.com)
 
 
-![Amin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amide-init&show_icons=true&theme=tokyonight&hide_border=true)
+![Amin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amide-init&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amide-init&theme=tokyonight&hide_border=true)
 
