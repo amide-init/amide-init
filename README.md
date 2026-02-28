@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Amin Uddin
 
-#### Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,7 +10,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/-AI%20Agent-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 #### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -93,7 +93,7 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 📧 [devaminza@gmail.com](mailto:devaminza@gmail.com)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=amide-init&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amide-init&theme=dark" />
+![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amide-init&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=amide-init&theme=tokyonight&hide_border=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=amide-init&label=Profile%20views&color=0e75b6&style=flat)
