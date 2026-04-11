@@ -64,7 +64,6 @@ As a **Full Stack Developer**, I work across the entire stack — from backend A
 3. 🔁 **[SQL2NoSQL](https://github.com/db-migration/sql2nosql)** — Open-source database migration engine that analyzes relational schemas, converts SQL tables into optimized NoSQL JSON structures, and leverages LLMs to improve schema design and query efficiency
 4. ✍️ **[Luxe-Edit](https://luxe-tools.github.io/luxe-edit)** — Open-source, high-performance rich text editor framework built on **Lexical**, focused on composability, clean APIs, and production-ready customization for modern SaaS and AI products
 5. 💬 **[one-more-validation (NPM)](https://www.npmjs.com/package/one-more-validation)** — ML-based package to detect irrelevant inputs in marketplace search
-6. 🔬 **Adaptive Function Network (AFN)** — Research comparing AFN with GA, PSO, and CMA-ES optimizers
 7. 🩺 **[AI Mask Detection System](https://github.com/amide-init/mask-detection)** — Real-time computer vision project for COVID compliance
 
 
